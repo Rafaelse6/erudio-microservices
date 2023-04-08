@@ -1,4 +1,4 @@
-package br.com.erudio.greetingservice;
+package br.com.erudio.greetingservice.model;
 
 public class Greeting {
 
